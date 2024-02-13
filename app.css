@@ -1,0 +1,13 @@
+.dog {
+    text-align: center;
+    margin-top: 50px;
+}
+.dog img {
+    height: 200px;
+    width: 200px;
+}
+
+.feb {
+    color: aliceblue;
+    text-shadow: 2px 2px 4px rgb(245, 11, 11);
+}
